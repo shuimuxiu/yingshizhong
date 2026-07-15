@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shuimuxiu.github.io/yingshizhong/sitemap.xml
